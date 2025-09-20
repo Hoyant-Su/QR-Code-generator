@@ -18,7 +18,6 @@ Website Link: 👉[Entry](http://120.55.4.233/)👈
 4. Copy the short URL or scan the generated QR code  
 
 ## Feedback
-
 If you encounter any issues or have suggestions, feel free to open an issue on this repository.
----
+
 Enjoy generating QR codes for free! 🚀
