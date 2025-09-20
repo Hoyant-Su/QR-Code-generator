@@ -1,5 +1,6 @@
 # QR-Code-generator
 This is a **beta version** of a free web service that allows you to generate **QR codes** from any URL instantly. 
+Website Link: [Entry](http://120.55.4.233/)
 
 ## Features
 
